@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    letter-spacing: 1ex;
+    background: linear-gradient(to right,yellow,red);
+}
+h1{
+    font-family: Helvetica;
+    font-size: 10ex;
+}
+
+h2{
+    color: rgb(54, 69, 79);
+    font-family: 'Times New Roman', Times, serif;
+}
